@@ -1,0 +1,48 @@
+body{
+    background-image: url(../image/gym1.jpg);
+
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+        opacity: 8%;
+}
+
+
+div{
+    text-align: center;
+    width: 40%;
+    background-color: #dd4814;
+    border-radius: 25px;
+    margin: 0 auto;
+    padding:50px;
+        margin-top: 150px;
+    
+    font-family: 'Shrikhand', cursive;
+    opacity: 0.85;
+    padding: 2px
+    
+}
+button{
+    background-color:grey;
+    padding:15px;
+    border-radius: 25px;
+    position: relative;
+    top: 40px;
+    font-size: 1.6vw
+}
+h1{
+    font-size: 3vw
+    color:#7B7DFF
+
+}
+p{
+    font-size: 2vw;
+    
+}
+i{
+    color: aliceblue;
+        position:relative;
+    top:7px;
+        padding:0;
+}
